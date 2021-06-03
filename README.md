@@ -1,4 +1,4 @@
-Wow Thats Good
+<h1> OMEGA </h1>
 
 <!--
 **shittyhad/shittyhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
